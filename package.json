@@ -1,6 +1,25 @@
 {
-  "devDependencies": {
-    "cssnano": "^5.0.8",
-    "postcss": "^8.3.9"
-  }
+    "name": "project_i68",
+    "version": "1.0.0",
+    "description": "",
+    "source": "index.html",
+    "browserslist": "> 0.5%, last 2 versions, not dead",
+    "scripts": {
+        "start": "parcel",
+        "build": "parcel build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Tio-pratomo/gogo-travel.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Tio-pratomo/gogo-travel/issues"
+    },
+    "homepage": "https://github.com/Tio-pratomo/gogo-travel#readme",
+    "devDependencies": {
+        "parcel": "^2.0.0"
+    }
 }
